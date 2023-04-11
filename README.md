@@ -2,4 +2,4 @@
 
 ``` Enjoy!®️ ```
 
-<img src="https://octodex.github.com/images/total-eclipse-of-the-octocat.jpg" width="190">
+<img src="https://octodex.github.com/images/scottocat.jpg" width="190">
