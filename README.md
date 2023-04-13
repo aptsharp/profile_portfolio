@@ -1,6 +1,7 @@
 # profile_portfolio
 
 imagem feita no repo da DIO.
+usando o tinypng.com
 
 ``` Enjoy!®️ ```
 
