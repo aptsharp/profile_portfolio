@@ -2,10 +2,45 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  text-align: center;
+  margin: 2rem 0;
 }
 
 .header .photo {
   width: 200px;
   height: 200px;
   border-radius: 50%;
+}
+
+.information {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 100%;
+}
+
+.information p {
+    margin: .5rem;
+}
+
+.information p::before{
+    content: '';
+    display: inline-block;
+    width: 1rem;
+    height: 1rem;
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-right: .5rem;
+}
+
+.information .user::before {
+    background-image: url('./icon/user.svg');
+}
+
+.information .location::before {
+    background-image: url('./icon/location.svg');
+}
+
+.information .email::before {
+    background-image: url('./icon/email.svg');
 }

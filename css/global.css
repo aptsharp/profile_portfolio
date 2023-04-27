@@ -3,11 +3,13 @@
   font-family: "Open Sans", sans-serif;
 }
 
-body{
-    background-color: black;
-    color: azure;
+body {
+  background-color: black;
+  color: azure;
 }
 
 .main {
+  margin: 0.5rem;
   padding: 1rem;
+  border: 1px solid beige;
 }
