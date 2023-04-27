@@ -6,6 +6,7 @@ modelo do projeto.
 
 <img src="https://user-images.githubusercontent.com/6175226/234737613-a25fc873-adeb-45db-ab41-42c7b7fe6d31.png" width="300">
 
+Projeto de referencia: https://github.com/digitalinnovationone/js-developer-portfolio
 
 ``` Enjoy!®️ ```
 
